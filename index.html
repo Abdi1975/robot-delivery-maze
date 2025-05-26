@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Robot Delivery Maze</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 Robot Delivery Maze</h1>
+        <p class="subtitle">Robot menggunakan algoritma BFS untuk mengantarkan paket</p>
+        
+        <div class="game-board">
+            <div id="maze" class="maze"></div>
+            
+            <div class="controls">
+                <button onclick="generateMaze()">🗺️ Maze Baru</button>
+                <button onclick="startDelivery()" id="startBtn">📦 Mulai Pengiriman</button>
+                <button onclick="resetMaze()">🔄 Reset</button>
+                <button onclick="toggleSpeed()" id="speedBtn">🐌 Lambat</button>
+            </div>
+            
+            <div id="status" class="status" style="display: none;"></div>
+        </div>
