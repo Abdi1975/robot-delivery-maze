@@ -54,3 +54,23 @@ Jika proyek ini berbasis web, cukup buka file `index.html` di browser modern.
 
 ## 📁 Struktur Proyek
 
+Robot-Delivery-Maze/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+## 🛠️ Teknologi
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## 📚 Lisensi
+
+Proyek ini dilisensikan di bawah MIT License. Silakan gunakan dan modifikasi sesuai kebutuhan.
+
+---
+
+**Selamat belajar algoritma pencarian jalur! 🚀**
