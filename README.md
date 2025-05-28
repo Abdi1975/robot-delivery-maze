@@ -32,6 +32,18 @@ BFS bekerja dengan menjelajahi maze secara bertingkat (level-by-level), menjamin
   - Jumlah sel yang dikunjungi
   - Panjang jalur solusi
 
+## 🧠 Komponen Agen Cerdas
+
+Game ini mengimplementasikan 4 komponen utama dari sistem agen cerdas, yaitu:
+
+| Komponen     | Penjelasan                                                                 |
+|--------------|----------------------------------------------------------------------------|
+| **Agen**     | Robot pengantar paket yang bergerak otomatis di dalam labirin              |
+| **Sensor**   | Kemampuan mendeteksi tembok, jalan, dan tujuan                             |
+| **Aktuator** | Mekanisme pergerakan robot (maju, belok, berhenti)                         |
+| **Lingkungan** | Labirin (maze) sebagai tempat interaksi agen                             |
+
+
 ## 📦 Representasi Visual
 
 | Simbol | Arti |
