@@ -2,6 +2,8 @@
 
 **Robot Delivery Maze** adalah simulasi interaktif di mana robot mengantarkan paket melalui sebuah labirin menggunakan algoritma **Breadth-First Search (BFS)**. Aplikasi ini bertujuan untuk menunjukkan bagaimana BFS bekerja dalam pencarian jalur terpendek di dalam maze.
 
+![Screenshot (251)](https://github.com/user-attachments/assets/4b726322-e134-433e-86c2-84403b164d8e)
+
 ## 🧠 Algoritma yang Digunakan
 
 ### Breadth-First Search (BFS)
@@ -31,6 +33,8 @@ BFS bekerja dengan menjelajahi maze secara bertingkat (level-by-level), menjamin
   - Langkah diambil
   - Jumlah sel yang dikunjungi
   - Panjang jalur solusi
+
+![Screenshot (252)](https://github.com/user-attachments/assets/fb292f2c-7f08-4eee-9306-eb293ac38fd2)
 
 ## 🧠 Komponen Agen Cerdas
 
